@@ -1,6 +1,4 @@
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-
-Audio Deepfryer is a Python script that allows you to apply various audio processing effects to your audio files, creating different levels of low-quality, distorted audio, with options to adjust the volume level. It's a fun tool to create hilarious and meme-worthy audio clips.
+CrunchySoundifier is a Python script that allows you to apply various audio processing effects to your audio files, creating different levels of low-quality, distorted audio, with options to adjust the volume level. It's a fun tool to create hilarious and meme-worthy audio clips.
 
 ## Features
 
